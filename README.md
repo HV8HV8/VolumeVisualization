@@ -36,38 +36,24 @@ Volume Visualization 体积可视化实现
 
 1. Ray-Casting 渲染效果
 (部分效果图如下)
-![Ray-Casting 渲染效果](<img width="244" height="158" alt="image" src="https://github.com/user-attachments/assets/649a3f7d-0719-4053-b640-5faca5f6a57b" />
-)
-![Ray-Casting 渲染效果](<img width="110" height="111" alt="image" src="https://github.com/user-attachments/assets/3bd56db0-3267-477d-a55a-80a0c50840e5" />
-)
-![Ray-Casting 渲染效果](<img width="132" height="112" alt="image" src="https://github.com/user-attachments/assets/11231ea6-3ac3-4ac8-8bf1-0f8dec995768" />
-)
+
+<img width="244" height="158" alt="image" src="https://github.com/user-attachments/assets/8c727c32-f3c2-4b7a-9ad1-432d66079f1f" />
+
+<img width="110" height="111" alt="image" src="https://github.com/user-attachments/assets/0227ca2f-513e-4bf2-ac4d-0f8ba1045cdc" />
+
+
+<img width="132" height="112" alt="image" src="https://github.com/user-attachments/assets/a21a54d2-32ce-4c3b-94b3-ccc28116637f" />
+
 
 3. Slice Viewer 切片预览效果
 (部分效果图如下)
-![Ray-Casting 渲染效果](<img width="238" height="154" alt="image" src="https://github.com/user-attachments/assets/73f9f746-7d63-495b-8f8d-2b07ca6da94c" />
-)
-![Ray-Casting 渲染效果](<img width="142" height="113" alt="image" src="https://github.com/user-attachments/assets/2466df32-4df5-4b58-98ed-5c05dde3b9c0" />
-)
-![Ray-Casting 渲染效果](<img width="145" height="111" alt="image" src="https://github.com/user-attachments/assets/2a0e34df-91ba-43bd-bd3a-7d7a0acc90c7" />
-)
+
 
 5. Splatting 渲染效果
 (部分效果图如下)
-![Ray-Casting 渲染效果](<img width="247" height="160" alt="image" src="https://github.com/user-attachments/assets/f72fc0ea-be4d-43c9-b904-f17f06121111" />
-)
-![Ray-Casting 渲染效果](<img width="144" height="117" alt="image" src="https://github.com/user-attachments/assets/57d41d17-7bfd-4eaa-834e-1225f93d4fb8" />
-)
-![Ray-Casting 渲染效果](<img width="102" height="118" alt="image" src="https://github.com/user-attachments/assets/7f816c9e-25d5-477d-ba38-1f55ec1aca64" />
-)
+
 
 7. Slice Compositing 渲染效果
 (部分效果图如下)
-![Ray-Casting 渲染效果](<img width="196" height="128" alt="image" src="https://github.com/user-attachments/assets/010574c6-fe9c-4637-9a07-069ae269d8c1" />
-)
-![Ray-Casting 渲染效果](<img width="108" height="111" alt="image" src="https://github.com/user-attachments/assets/9c041740-f36d-4846-8ad6-9bbcc231af4d" />
-)
-![Ray-Casting 渲染效果](<img width="103" height="111" alt="image" src="https://github.com/user-attachments/assets/2f816444-41ac-4fdb-a598-2bc3f5691f54" />
-)
 
 > 注：仅展示了特定参数下部分数据集效果
