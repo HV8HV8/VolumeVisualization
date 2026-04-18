@@ -45,15 +45,35 @@ Volume Visualization 体积可视化实现
 <img width="132" height="112" alt="image" src="https://github.com/user-attachments/assets/a21a54d2-32ce-4c3b-94b3-ccc28116637f" />
 
 
-3. Slice Viewer 切片预览效果
+2. Slice Viewer 切片预览效果
 (部分效果图如下)
 
+<img width="238" height="154" alt="image" src="https://github.com/user-attachments/assets/13793bb3-9285-4373-8e7e-f2b41b4df5f1" />
 
-5. Splatting 渲染效果
+
+<img width="142" height="113" alt="image" src="https://github.com/user-attachments/assets/7d86631b-7cdb-4e2f-80fd-48306134baca" />
+
+
+<img width="145" height="111" alt="image" src="https://github.com/user-attachments/assets/bc619bc2-df15-4d9d-812a-2110818fe01b" />
+
+3. Splatting 渲染效果
 (部分效果图如下)
 
+<img width="247" height="160" alt="image" src="https://github.com/user-attachments/assets/49f84fe6-b78b-4af6-94f5-88e4363c7ee8" />
 
-7. Slice Compositing 渲染效果
+
+<img width="144" height="117" alt="image" src="https://github.com/user-attachments/assets/6d50db6b-faf1-43e5-98b5-964eab81724f" />
+
+
+<img width="102" height="118" alt="image" src="https://github.com/user-attachments/assets/19de4458-8ef6-47fe-a483-e165296cd134" />
+
+4. Slice Compositing 渲染效果
 (部分效果图如下)
+
+<img width="196" height="128" alt="image" src="https://github.com/user-attachments/assets/c47d6618-f350-475c-a5a9-4e5335860652" />
+
+<img width="108" height="111" alt="image" src="https://github.com/user-attachments/assets/e50bb43a-d28f-4e38-9b21-6a83853a1e11" />
+
+<img width="103" height="111" alt="image" src="https://github.com/user-attachments/assets/a6222779-96a3-475d-81a1-90f2c30eaf31" />
 
 > 注：仅展示了特定参数下部分数据集效果
